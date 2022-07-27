@@ -9,7 +9,6 @@ ABOUT ME
 * 🌍  I'm based in Kigali
 * 🖥️  See my portfolio at [DEV KWIZERA](http://devkwizera.netlify.app/)
 * ✉️  You can contact me at [kwizerageniklenon@gmail.com](mailto:kwizerageniklenon@gmail.com)
-* 🧠  I'm learning Java Programming Language
 * 🤝  I'm open to collaborating on Java, NodeJS, React, NextJs, Nest Projects
 * ⚡  Founder of CODENET-BTS
 
