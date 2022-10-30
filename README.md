@@ -16,7 +16,7 @@ An adaptive software developer currently pursuing a second year Advanced Diploma
 * 🤝  I'm open to collaborating on Java, NodeJS, React, NextJs, Nest Projects
 * ⚡  Founder of CODENET-BTS
 
-<a href="https://www.twitter.com/heizkwizera" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/heiskwizera" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/heizkwizera?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
 /></a><a href="https://www.github.com/heiskwizera" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/heiskwizera?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
