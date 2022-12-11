@@ -12,7 +12,7 @@ An adaptive software developer currently pursuing a second year Advanced Diploma
 
 * 🌍  I'm based in Kigali
 * 🖥️  See my portfolio at [DEV KWIZERA](http://devkwizera.netlify.app/)
-* ✉️  You can contact me at [kwizerageniklenon@gmail.com](mailto:kwizerageniklenon@gmail.com)
+* ✉️  You can contact me at [he.kwizera@gmail.com](he.kwizera@gmail.com)
 * 🤝  I'm open to collaborating on Java, NodeJS, React, NextJs, Nest Projects
 * ⚡  Founder of CODENET-BTS
 
