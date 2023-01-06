@@ -2,7 +2,7 @@ Hi,
 ========================
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&width=1000&lines=MEET+Developer+KWIZERA;)](https://git.io/typing-svg)
-An adaptive software developer currently pursuing a second year Advanced Diploma in Information Technology, with 6.5 years of work experience. I'm a full-stack developer with a passion for building and designing software. I have experience in Java, PHP, and JavaScript. I'm also interested in the Metaverse and VR/AR technologies.
+I'm a full-stack developer with a passion for building and designing software. I have experience in Java, PHP, and JavaScript. I'm also interested in the Metaverse and VR/AR technologies.
 
 ### Socials
 
@@ -11,7 +11,7 @@ An adaptive software developer currently pursuing a second year Advanced Diploma
 
 
 * 🌍  I'm based in Kigali
-* 🖥️  See my portfolio at [DEV KWIZERA](http://devkwizera.netlify.app/)
+<!-- * 🖥️  See my portfolio at [DEV KWIZERA](http://devkwizera.netlify.app/) -->
 * ✉️  You can contact me at [he.kwizera@gmail.com](he.kwizera@gmail.com)
 * 🤝  I'm open to collaborating on Java, NodeJS, React, NextJs, Nest Projects
 * ⚡  Founder of CODENET-BTS
