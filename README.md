@@ -2,7 +2,7 @@ Hi,
 ========================
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&width=1000&lines=MEET+Developer+KWIZERA;)](https://git.io/typing-svg)
-I'm a full-stack developer with a passion for building and designing software. I have experience in Java, PHP, and JavaScript. I'm also interested in the Metaverse and VR/AR technologies.
+Crafting Cutting-Edge Solutions as a Full-Stack Maestro: Mastering React, React Native, Node.js, Express, Java, PHP, noSQL & SQL in Perfect Harmony!
 
 ### Socials
 
